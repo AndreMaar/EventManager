@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSPEZTY8TauCjoaCNNVYNtnNq4y6SeBBP6wgfte4D0bHoS9hUmfMnpYXMZQp1RCNyZ+SKtwtkfuxVjJWPd5+Zw==",
+  "dgSpecHash": "TxvunYRk+JrHC0fG2xJ8tdhdiiD7BzluuJ4okfQaDhNgZywK2cRDeRdjyL6kjzk+C2zJ/Fo81x2aoMGJ9z2cUA==",
   "success": true,
-  "projectFilePath": "/Users/taras/Projects/EventManager/EventManagerTests/EventManagerTests.csproj",
+  "projectFilePath": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManagerTests/EventManagerTests.csproj",
   "expectedPackageFiles": [
     "/Users/taras/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/taras/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",

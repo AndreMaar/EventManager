@@ -5538,11 +5538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/taras/Projects/EventManager/EventManagerTests/EventManagerTests.csproj",
+      "projectUniqueName": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManagerTests/EventManagerTests.csproj",
       "projectName": "EventManagerTests",
-      "projectPath": "/Users/taras/Projects/EventManager/EventManagerTests/EventManagerTests.csproj",
+      "projectPath": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManagerTests/EventManagerTests.csproj",
       "packagesPath": "/Users/taras/.nuget/packages/",
-      "outputPath": "/Users/taras/Projects/EventManager/EventManagerTests/obj/",
+      "outputPath": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManagerTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/taras/.nuget/NuGet/NuGet.Config"
@@ -5557,8 +5557,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/taras/Projects/EventManager/EventManager/EventLogic.csproj": {
-              "projectPath": "/Users/taras/Projects/EventManager/EventManager/EventLogic.csproj"
+            "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager/EventLogic.csproj": {
+              "projectPath": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager/EventLogic.csproj"
             }
           }
         }

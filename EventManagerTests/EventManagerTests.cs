@@ -5,7 +5,7 @@ namespace EventManagerTests
 {
     public class EventManagerTests
     {
-        private List<string> res = new List<string>();
+        
 
         [Fact]
         public void AddCategory_ShouldAddCategory()
