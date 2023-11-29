@@ -1,14 +1,16 @@
-﻿namespace EventManager
+﻿using System.Linq;
+
+namespace EventManager
 {
     public class EventLogic
     {
         private List<string> categories = new List<string>();
         private List<Event> events = new List<Event>();
         private List<Event> favorites = new List<Event>();
-
+            
         public void AddCategory(string category)
         {
-            if (category != null)
+            if (category != null && !categories.Contains(category))
             {
                 categories.Add(category);
             }
@@ -16,15 +18,24 @@
 
         public void RemoveCategory(string category)
         {
-            if (category != null)
+            if (category != null && categories.Contains(category))
             {
                 categories.Remove(category);
+
+                // Update events removing the category
+                foreach (var e in events)
+                {
+                    if (e.Category == category)
+                    {
+                        e.Category = null;
+                    }
+                }
             }
         }
 
         public void AddEvent(Event newEvent)
         {
-            if (newEvent != null)
+            if (newEvent != null && categories.Contains(newEvent.Category))
             {
                 events.Add(newEvent);
             }

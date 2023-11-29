@@ -4,8 +4,6 @@ namespace EventManagerTests
 {
     public class EventManagerTests
     {
-        
-
         [Fact]
         public void AddCategory_ShouldAddCategory()
         {
@@ -13,10 +11,10 @@ namespace EventManagerTests
             var eventManager = new EventLogic();
 
             // Act
-            eventManager.AddCategory("MusicLesson");
+            eventManager.AddCategory("Music");
 
             // Assert
-            Assert.Contains("MusicLesson", eventManager.GetCategories());
+            Assert.Contains("Music", eventManager.GetCategories());
         }
 
         [Fact]
@@ -24,13 +22,13 @@ namespace EventManagerTests
         {
             // Arrange
             var eventManager = new EventLogic();
-            eventManager.AddCategory("MusicLesson");
+            eventManager.AddCategory("Music");
 
             // Act
-            eventManager.RemoveCategory("MusicLesson");
+            eventManager.RemoveCategory("Music");
 
             // Assert
-            Assert.DoesNotContain("MusicLesson", eventManager.GetCategories());
+            Assert.DoesNotContain("Music", eventManager.GetCategories());
         }
         [Fact]
         public void AddEvent_ShouldAddEvent()
@@ -40,6 +38,7 @@ namespace EventManagerTests
             var newEvent = new Event("Concert", "Venue", "Music");
 
             // Act
+            eventManager.AddCategory("Music");
             eventManager.AddEvent(newEvent);
 
             // Assert
@@ -52,6 +51,8 @@ namespace EventManagerTests
             // Arrange
             var eventManager = new EventLogic();
             var existingEvent = new Event("Concert", "Venue", "Music");
+
+            eventManager.AddCategory("Music");
             eventManager.AddEvent(existingEvent);
 
             // Act
@@ -81,7 +82,7 @@ namespace EventManagerTests
             // Arrange
             var eventManager = new EventLogic();
             Event unfavoriteEvent = new Event("Picnic", "Beach", "Outdoor");
-            //eventManager.AddToFavorites(unfavoriteEvent);
+            eventManager.AddToFavorites(unfavoriteEvent);
 
             // Act
             eventManager.RemoveFromFavorites(unfavoriteEvent);
@@ -94,8 +95,8 @@ namespace EventManagerTests
         {
             // Arrange
             var eventManager = new EventLogic();
-            Event event1 = new Event("Concert A", "Venue A", "Music");
-            Event event2 = new Event("Concert B", "Venue B", "Music");
+            Event event1 = new Event("Breakfast", "Cafe", "Meat");
+            Event event2 = new Event("Concert", "Venue", "Music");
             Event event3 = new Event("Festival", "Park", "Outdoor");
 
             eventManager.AddToFavorites(event1);
@@ -117,6 +118,8 @@ namespace EventManagerTests
             Event event2 = new Event("Concert A", "Venue A", "Music");
             Event event3 = new Event("Festival", "Park", "Outdoor");
 
+            eventManager.AddCategory("Music");
+            eventManager.AddCategory("Outdoor");
             eventManager.AddEvent(event1);
             eventManager.AddEvent(event2);
             eventManager.AddEvent(event3);
@@ -125,7 +128,7 @@ namespace EventManagerTests
             var events = eventManager.GetEventsByCategory("Music");
 
             // Assert
-            Assert.Equal(events, new[] { event1, event2 });
+            Assert.Equal(events, new[] {event1, event2});
         }
     }
 }
