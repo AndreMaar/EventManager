@@ -1,0 +1,15 @@
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.csproj.AssemblyReference.cache
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.AssemblyInfoInputs.cache
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.AssemblyInfo.cs
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.csproj.CoreCompileInputs.cache
+/Users/taras/Projects/EventManager/EventManager/bin/Debug/net7.0/EventLogic
+/Users/taras/Projects/EventManager/EventManager/bin/Debug/net7.0/EventLogic.deps.json
+/Users/taras/Projects/EventManager/EventManager/bin/Debug/net7.0/EventLogic.runtimeconfig.json
+/Users/taras/Projects/EventManager/EventManager/bin/Debug/net7.0/EventLogic.dll
+/Users/taras/Projects/EventManager/EventManager/bin/Debug/net7.0/EventLogic.pdb
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.dll
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/refint/EventLogic.dll
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.pdb
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/EventLogic.genruntimeconfig.cache
+/Users/taras/Projects/EventManager/EventManager/obj/Debug/net7.0/ref/EventLogic.dll
