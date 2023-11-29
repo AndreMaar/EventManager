@@ -1,6 +1,5 @@
 ﻿using EventManager;
 
-
 namespace EventManagerTests
 {
     public class EventManagerTests
