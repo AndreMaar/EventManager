@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  eventmanager.consoleapp:
+    image: ${DOCKER_REGISTRY-}eventmanager
+    build:
+      context: .
+      dockerfile: EventManager.ConsoleApp/Dockerfile

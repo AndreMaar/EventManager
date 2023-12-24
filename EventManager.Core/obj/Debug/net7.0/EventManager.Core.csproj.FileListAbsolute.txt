@@ -1,0 +1,12 @@
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/bin/Debug/net7.0/EventManager.Core.deps.json
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/bin/Debug/net7.0/EventManager.Core.dll
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/bin/Debug/net7.0/EventManager.Core.pdb
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.csproj.AssemblyReference.cache
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.AssemblyInfoInputs.cache
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.AssemblyInfo.cs
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.csproj.CoreCompileInputs.cache
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.dll
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/refint/EventManager.Core.dll
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.pdb
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/ref/EventManager.Core.dll

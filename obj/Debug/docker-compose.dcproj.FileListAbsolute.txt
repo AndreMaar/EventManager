@@ -1,0 +1,10 @@
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.ConsoleApp.deps.json
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.ConsoleApp.runtimeconfig.json
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.ConsoleApp
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.ConsoleApp.dll
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.ConsoleApp.pdb
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/obj/Debug/docker-compose.dcproj.CopyComplete
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.Core.dll
+/Users/taras/Desktop/КПІ/МРПЗ/EventManager/bin/Debug/EventManager.Core.pdb

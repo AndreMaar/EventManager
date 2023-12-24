@@ -1,0 +1,12 @@
+name: dockercompose3649309783995943263
+services:
+  eventmanager.consoleapp:
+    build:
+      context: /Users/taras/Desktop/КПІ/МРПЗ/EventManager
+      dockerfile: EventManager.ConsoleApp/Dockerfile
+    image: eventmanager
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose3649309783995943263_default

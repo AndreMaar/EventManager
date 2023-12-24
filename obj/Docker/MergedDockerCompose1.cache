@@ -1,0 +1,51 @@
+name: dockercompose3649309783995943263
+services:
+  eventmanager.consoleapp:
+    build:
+      context: /Users/taras/Desktop/КПІ/МРПЗ/EventManager
+      dockerfile: EventManager.ConsoleApp/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: EventManager.ConsoleApp
+      target: base
+    container_name: EventManager.ConsoleApp
+    entrypoint:
+      - tail
+      - -f
+      - /dev/null
+    environment:
+      NUGET_FALLBACK_PACKAGES: ""
+    image: eventmanager:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net7.0/EventManager.ConsoleApp.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    tty: true
+    volumes:
+      - type: bind
+        source: /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp
+        target: /app
+        bind:
+          create_host_path: true
+      - type: bind
+        source: /Users/taras/Desktop/КПІ/МРПЗ/EventManager
+        target: /src
+        bind:
+          create_host_path: true
+      - type: bind
+        source: /Users/taras/vsdbg/vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: /Users/taras/.nuget/packages/
+        target: /root/.nuget/packages
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose3649309783995943263_default
