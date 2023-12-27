@@ -10,3 +10,14 @@
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/refint/EventManager.Core.dll
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/EventManager.Core.pdb
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.Core/obj/Debug/net7.0/ref/EventManager.Core.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\bin\Debug\net7.0\EventManager.Core.deps.json
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\bin\Debug\net7.0\EventManager.Core.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\bin\Debug\net7.0\EventManager.Core.pdb
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.AssemblyInfoInputs.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.AssemblyInfo.cs
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.csproj.CoreCompileInputs.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\refint\EventManager.Core.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\EventManager.Core.pdb
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.Core\obj\Debug\net7.0\ref\EventManager.Core.dll

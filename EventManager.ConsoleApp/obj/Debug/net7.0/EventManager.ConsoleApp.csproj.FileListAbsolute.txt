@@ -16,3 +16,21 @@
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp/bin/Debug/net7.0/EventManager.Core.dll
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp/bin/Debug/net7.0/EventManager.Core.pdb
 /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp/obj/Debug/net7.0/EventManager.ConsoleApp.csproj.CopyComplete
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.ConsoleApp.exe
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.ConsoleApp.deps.json
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.ConsoleApp.runtimeconfig.json
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.ConsoleApp.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.ConsoleApp.pdb
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.Core.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\bin\Debug\net7.0\EventManager.Core.pdb
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.csproj.AssemblyReference.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.AssemblyInfoInputs.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.AssemblyInfo.cs
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.csproj.CopyComplete
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\refint\EventManager.ConsoleApp.dll
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.pdb
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\EventManager.ConsoleApp.genruntimeconfig.cache
+D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\obj\Debug\net7.0\ref\EventManager.ConsoleApp.dll
