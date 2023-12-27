@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcA+o/hIHWm9HkjiRhYhjTLW3JCXHQtpqgbLW2Fse2OYCg4t3JSrJutJ70Mekyrn/0S2twOVC7thojBZSNUhyw==",
+  "dgSpecHash": "1bVNDgPyTo0zk2SZ5jHJJsoO5uPlwPNjNLxjwQenlnhNsATN+I/Zifi5zqX18WgV2wXRMZbyLy0WBlEQB5pOkg==",
   "success": true,
-  "projectFilePath": "D:\\University\\5_Semester\\Metodolohiyi roz proh zabez\\Lab_4\\EventManager-main\\EventManager.ConsoleApp\\EventManager.ConsoleApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\10\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp/EventManager.ConsoleApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

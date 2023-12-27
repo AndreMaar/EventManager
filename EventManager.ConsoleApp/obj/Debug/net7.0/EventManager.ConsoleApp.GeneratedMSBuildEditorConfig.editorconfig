@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventManager.ConsoleApp
-build_property.ProjectDir = D:\University\5_Semester\Metodolohiyi roz proh zabez\Lab_4\EventManager-main\EventManager.ConsoleApp\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/taras/Desktop/КПІ/МРПЗ/EventManager/EventManager.ConsoleApp/
